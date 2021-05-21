@@ -1,0 +1,5 @@
+gcsfs==2021.5.0
+jupyter==1.0.0
+numpy==1.20.1
+pandas==1.2.4
+matplotlib==3.3.4
